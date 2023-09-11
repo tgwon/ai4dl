@@ -6,5 +6,8 @@
 * week : Exercise notebooks for corresponding weeks
 * project : Kaggle Competition
 ### Project 요약
-<img src="https://github.com/tgwon/ai4dl/assets/102985590/854e0122-1298-4d85-b716-1b745d7cade3"  width="760" height="430">
+* Determining if it is a text related to a natural disaster based on Twitter content
+* 성능을 올리기 위해 다양한 시도
+* BERT 계열의 모델들을 Voting 앙상블 하여 최종 성능 달성
+<img src="https://github.com/tgwon/ai4dl/assets/102985590/e70704d2-bcc4-4b77-a640-49e5e8321066"  width="780" height="430">
 
